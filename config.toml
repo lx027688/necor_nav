@@ -1,6 +1,6 @@
-baseURL = "https://www.daohangren.cn"
+baseURL = "https://www.0ono0.cn"
 languageCode = "zh-CN"
-title = "Bio & IT 网址导航 | Hugo 主题"
+title = "0ono0网址导航"
 theme = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
@@ -9,13 +9,13 @@ publishDir = "public"
 
 
 [params]
-    author        = "shenweiyan"
-    description   = "Webstack Hugo 网址导航 | Bio IT 爱好者"
+    author        = "necor"
+    description   = "0ono0网址导航"
     siteurl       = "./"
-    about         = "https://www.yuque.com/shenweiyan/cookbook/webstack-hugo"   # 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/shenweiyan/WebStack-Hugo"
+    about         = "https://www.0ono0.cn"   # 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://www.0ono0.cn"
     enablePreLoad = true		    		        # 网站完全打开前预加载的动画
-    textPreLoad   = "Bio & IT 网址导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "0ono0网址导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     logosPath     = "assets/images/logos"				# 网站每个导航地址logo存放地址
 
 [params.qweather]
@@ -31,4 +31,4 @@ publishDir = "public"
     logoCollapseDark  = "assets/images/logo-collapse-dark.png"
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：ishenweiyan@foxmail.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：hackerlixiang@163.com <br/>&copy; 2021 - {year} By [0ono0](https://www.0ono0.cn) <br/>'

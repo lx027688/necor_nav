@@ -25,10 +25,10 @@ publishDir = "public"
     favicon           = "assets/images/favicon.png"
     searchImageL      = "assets/images/search-bg-light.jpg"		#搜索部分浅色背景图
     searchImageD      = "assets/images/search-bg-dark.jpg"		#搜索部分深色背景图
-    logoExpandLight   = "assets/images/bioitee-expand-light.png"
-    logoExpandDark    = "assets/images/bioitee-expand-dark.png"
-    logoCollapseLight = "assets/images/logo-collapse-light.png"
-    logoCollapseDark  = "assets/images/logo-collapse-dark.png"
+    logoExpandLight   = "assets/images/logo-expand.png"
+    logoExpandDark    = "assets/images/logo-expand.png"
+    logoCollapseLight = "assets/images/logo-collapse.png"
+    logoCollapseDark  = "assets/images/logo-collapse.png"
 
 [params.footer]
     copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：hackerlixiang@163.com <br/>&copy; 2021 - {year} By [0ono0](https://www.0ono0.cn) <br/>'

@@ -202,6 +202,12 @@
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
+    - term: logo设计
+      links:
+        - title: 标点狗
+          url: https://www.logoko.com.cn/
+          logo: logoko.jpg
+          description: 标点狗，点一点做LOGO！
     - term: 图标素材
       links:
         - title: Iconfinder
@@ -421,12 +427,6 @@
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list:
-    - term: logo设计
-      links:
-        - title: 标点狗
-          url: https://www.logoko.com.cn/
-          logo: photoshop.png
-          description: 标点狗，点一点做LOGO！
     - term: 图形创意
       links:
         - title: photoshop

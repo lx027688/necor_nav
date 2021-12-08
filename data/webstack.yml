@@ -91,7 +91,7 @@
           url: https://smallpdf.com/cn/pdf-to-excel
           description: 将pdf转换为excl文档
         - title: pdf转html
-          logo: office/pdf转html.jpg
+          logo: office/pdf转html.png
           url: http://pdfdo.com/pdf-to-html.aspx
           description: 将pdf转换为html
         - title: word转pdf
@@ -110,11 +110,6 @@
           logo: office/图片转pdf.png
           url: https://smallpdf.com/cn/jpg-to-pdf
           description: 将图片转换为pdf文档
-        - title: word转pdf
-          logo: office/word转pdf.png
-          url: https://smallpdf.com/cn/word-to-pdf
-          description: 将word转换为pdf文档
-
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list:
@@ -126,11 +121,11 @@
           description: 在线格式化json数据
         - title: 时间戳转换
           url: https://tool.lu/timestamp/
-          logo: default.jpg
+          logo: develop/timestamp.jpg
           description: 时间戳转换时间，时间转换时间戳
         - title: 图片去底
           url: https://www.aigei.com/bgremover
-          logo: default.jpg
+          logo: develop/去底色.jpg
           description: BgRemover,图片去底,去除图片底色,背景变透明,在线版
         - title: tinypng
           url: https://tinypng.com/
@@ -163,15 +158,15 @@
     - term: 在线文档
       links:
         - title: Java api
-          logo: develop/Java API.jpg
+          logo: develop/java.jpg
           url: https://docs.oracle.com/javase/8/docs/api/
           description: Java Api.
         - title: Spring
-          logo: default.jpg
+          logo: develop/spring.jpg
           url: https://spring.io/
           description: Level up your Java code and explore what Spring can do for you.
         - title: jquery api
-          logo: develop/JQuery API.jpg
+          logo: develop/jquery.jpg
           url: https://jqueryapi.net/
           description: jQuery,jQuery教程,jQuery API,jQuery API 中文手册。
         - title: webpack
@@ -209,7 +204,7 @@
           url: https://www.51cto.com/
           description: 中国领先的IT技术网站51CTO(www.51cto.com)是一个为CTO、IT技术经理、系统工程师、网络工程师、安全工程师、数据库工程师、网络管理员、开发工程师、项目管理人员等IT技术人员搭建的互动媒体平台，主要为IT技术人员提供新闻资讯、技术文档、BBS、博客、技术圈、培训课程、人才交流等专业服务。
         - title: SegmentFault
-          logo: default.jpg
+          logo: develop/sf.jpg
           url: https://segmentfault.com/
           description: SegmentFault是中国领先的开发者社区。该社区希望为中文开发者提供一个纯粹、高质的技术交流平台，与开发者一起学习、交流与成长，创造属于开发者的时代！
         - title: infoQ
@@ -235,7 +230,7 @@
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。
         - title: 百度云
-          logo: default.jpg
+          logo: develop/百度云.jpg
           url: https://cloud.baidu.com/
           description: 百度智能云是百度基于17年技术积累提供的稳定、高可用、可扩展的云计算服务。云服务器、BAE提供多种建站配置，云存储、CDN、视频转码为在线教育及视频网站提供一站式解决方案。更有云数据库，MapReduce等多种云端服务，7*24小时技术支持，免费备案
         - title: 云筏科技

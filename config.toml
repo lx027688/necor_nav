@@ -14,9 +14,9 @@ publishDir = "public"
     siteurl       = "./"
     about         = "https://www.0ono0.cn"   # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://www.0ono0.cn"
-    enablePreLoad = true		    		        # 网站完全打开前预加载的动画
+    enablePreLoad = true		    		    # 网站完全打开前预加载的动画
     textPreLoad   = "0ono0网址导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
-    logosPath     = "assets/images/logos"				# 网站每个导航地址logo存放地址
+    logosPath     = "assets/images/logos"		# 网站每个导航地址logo存放地址
 
 [params.qweather]
     key = "085791e805a24491b43b06cf58ab31e7"

@@ -20,7 +20,7 @@ publishDir = "public"
     logosPath     = "assets/images/logos"		# 网站每个导航地址logo存放地址
 
 [params.qweather]
-    key = "085791e805a24491b43b06cf58ab31e7"
+    key = "211d35c9ed9542fab70bbb1ee0d823df"
 
 [params.images]
     favicon           = "assets/images/favicon.png"

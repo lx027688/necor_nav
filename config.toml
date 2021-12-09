@@ -10,7 +10,8 @@ publishDir = "public"
 
 [params]
     author        = "necor"
-    description   = "0ono0网址导航"
+    keywords = '网站导航，网址导航，推荐网站'
+    description   = "0ono0网址导航--一个主页，整个世界，为用户提供各种分类的优秀内容和网站入口，提供简单便捷的上网导航服务。"
     siteurl       = "./"
     about         = "https://www.0ono0.cn"   # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://www.0ono0.cn"

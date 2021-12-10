@@ -13,7 +13,6 @@ Windows/Linux 下详细的安装与使用说明，请参考文档：
 
 **[WebStack-Hugo | 一个简洁的静态导航主题](https://www.yuque.com/shenweiyan/cookbook/webstack-hugo) - [语雀](https://www.yuque.com/shenweiyan)**
 
-
 ### 主题开源地址
 
 - GitHub：[https://github.com/shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)

@@ -7,7 +7,6 @@ disablePathToLower = true
 hasCJKLanguage = true
 publishDir = "public"
 
-
 [params]
     author        = "necor"
     keywords = '网站导航，网址导航，推荐网站'

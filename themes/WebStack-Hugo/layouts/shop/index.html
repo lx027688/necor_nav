@@ -5,6 +5,8 @@
     <title>Title</title>
 </head>
 <body>
-shop test
+{{ range .Site.Data.merchandises }}
+<a href="{{ .url }}" title="{{ .description }}" target="_blank">{{ .name }}</a>
+{{ end }}
 </body>
 </html>

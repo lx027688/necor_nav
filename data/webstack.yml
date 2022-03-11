@@ -106,6 +106,10 @@
           url: https://tinypng.com/
           logo: tinypng.png
           description: Optimize your images with a perfect balance in quality and file size.
+        - title: convertio
+          url: https://convertio.co/
+          logo: tools/convertio.png
+          description: 免费的在线音视频转换器
         - title: goqr
           url: http://goqr.me/
           logo: goqr.png
@@ -134,7 +138,7 @@
       links:
         - title: Java api
           logo: develop/java.jpg
-          url: https://docs.oracle.com/javase/8/docs/api/
+          url: https://www.runoob.com/manual/jdk11api/
           description: Java Api.
         - title: Spring
           logo: develop/spring.jpg
@@ -632,6 +636,10 @@
           logo: recreation/BD影视.png
           url: https://www.bd2020.com/
           description: BD影视资源分享网站,主要提供丰富的影视资源下载,并且可以在线云播预览,上映之后三个月内发布枪版,三个月之后发布蓝光高清下载
+        - title: NECOR影视
+          logo: recreation/BD影视.png
+          url: /movie
+          description: NECOR影视资源分享网站,主要提供丰富的影视资源下载,并且可以在线云播预览,上映之后三个月内发布枪版,三个月之后发布蓝光高清下载
     - term: 音乐频道
       links:
         - title: QQ 音乐

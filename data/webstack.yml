@@ -288,11 +288,11 @@
           description: 家庭云|网盘|文件备份|资源分享。
         - title: 坚果云
           logo: resources/坚果云.png
-          usrl: https://www.jianguoyun.com/
+          url: https://www.jianguoyun.com/
           description: 坚果云官网。
         - title: 熊猫搜盘
           logo: resources/熊猫搜盘.png
-          usrl: https://www.sopandas.com/
+          url: https://www.sopandas.com/
           description: 熊猫搜盘是搜索直达网盘资源的盘搜工具，海量网盘资源免费搜索，帮您快速搜索到小说，影视，游戏，音乐，学习资料等各类稀缺、有用的网盘下载链接。找网盘资源，就上熊猫搜盘。。
     - term: logo设计
       links:

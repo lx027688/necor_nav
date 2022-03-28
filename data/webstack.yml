@@ -275,21 +275,25 @@
     - term: 网盘资源
       links:
         - title: 百度网盘
-          logo: 百度网盘.jpg
+          logo: resources/百度网盘.jpg
           url: http://pan.baidu.com/
           description: https://pan.baidu.com/.
         - title: 阿里云盘
-          logo: 阿里云盘.png
+          logo: resources/阿里云盘.png
           url: https://www.aliyundrive.com/
           description: 阿里云盘，你的数字世界。
         - title: 天翼云盘
-          logo: 天翼云盘.jpg
+          logo: resources/天翼云盘.jpg
           url: https://cloud.189.cn/
           description: 家庭云|网盘|文件备份|资源分享。
         - title: 坚果云
-          logo: 坚果云.png
+          logo: resources/坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
+        - title: 熊猫搜盘
+          logo: resources/熊猫搜盘.png
+          usrl: https://www.sopandas.com/
+          description: 熊猫搜盘是搜索直达网盘资源的盘搜工具，海量网盘资源免费搜索，帮您快速搜索到小说，影视，游戏，音乐，学习资料等各类稀缺、有用的网盘下载链接。找网盘资源，就上熊猫搜盘。。
     - term: logo设计
       links:
         - title: 标点狗
@@ -624,6 +628,10 @@
           description: 白嫖者联盟是中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺应有尽有。
     - term: 影视资源下载
       links:
+        - title: 蓝光电影
+          logo: recreation/蓝光电影.png
+          url: http://blu-raydisc.tv/
+          description: 迅雷电影天堂 - 全球领先的高清电影下载平台，以丰富的内容、极致的下载体验、满足您最新电影迅雷下载和BT下载需求。每日更新720p、1080p，蓝光高清电影下载资源。
         - title: 迅雷电影天堂
           logo: recreation/迅雷电影天堂.png
           url: https://xunlei8.cc/movies.html

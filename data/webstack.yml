@@ -293,7 +293,11 @@
         - title: 熊猫搜盘
           logo: resources/熊猫搜盘.png
           url: https://www.sopandas.com/
-          description: 熊猫搜盘是搜索直达网盘资源的盘搜工具，海量网盘资源免费搜索，帮您快速搜索到小说，影视，游戏，音乐，学习资料等各类稀缺、有用的网盘下载链接。找网盘资源，就上熊猫搜盘。。
+          description: 熊猫搜盘是搜索直达网盘资源的盘搜工具，海量网盘资源免费搜索，帮您快速搜索到小说，影视，游戏，音乐，学习资料等各类稀缺、有用的网盘下载链接。找网盘资源，就上熊猫搜盘。
+        - title: 阿里盘搜
+          logo: resources/阿里盘搜.png
+          url: https://www.alipansou.com/
+          description: 阿里盘搜,支持阿里云盘搜索,可快速搜索阿里云盘资源中的有效连接,每天更新海量资源
     - term: logo设计
       links:
         - title: 标点狗
@@ -644,6 +648,10 @@
           logo: recreation/BD影视.png
           url: https://www.bd2020.com/
           description: BD影视资源分享网站,主要提供丰富的影视资源下载,并且可以在线云播预览,上映之后三个月内发布枪版,三个月之后发布蓝光高清下载
+        - title: 射手网(伪)
+          logo: recreation/射手网.png
+          url: https://secure.assrt.net/
+          description: 电影字幕下载
         - title: NECOR影视
           logo: recreation/BD影视.png
           url: /movie

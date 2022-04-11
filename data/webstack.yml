@@ -524,12 +524,20 @@
       links:
         - title: 微信读书
           url: https://weread.qq.com/
-          logo: 微信读书.jpg
+          logo: books/微信读书.jpg
           description: 微信读书电脑版。
         - title: 书栈网
           url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
+          logo: books/书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
+        - title: BookZZ
+          url: https://www.bookzz.ren/
+          logo: books/bookzz.jpg
+          description: Bookzz 是一个号称是世界上最大的电子书图书馆，支持PDF、EPUB、MOBI、DOC，总之搜索电子书并下载非常实用。
+        - title: Aconvert
+          url: https://www.aconvert.com/cn/
+          logo: books/aconvert.jpg
+          description: 电子书文件格式转换网站。
     - term: 博客论坛
       links:
         - title: Inoreader

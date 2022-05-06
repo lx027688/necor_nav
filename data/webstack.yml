@@ -130,6 +130,10 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
+        - title: magiceraser
+          url: https://www.magiceraser.io/
+          logo: magiceraser.png
+          description: 在线免费AI抠图
     - term: 在线文档
       links:
         - title: Java api

@@ -538,7 +538,7 @@
           url: https://www.aconvert.com/cn/
           logo: books/aconvert.jpg
           description: 电子书文件格式转换网站。
-    - term: 博客论坛
+    - term: 知识库
       links:
         - title: Inoreader
           url: https://www.inoreader.com/
@@ -560,6 +560,10 @@
           url: https://www.coolshell.cn/
           logo: default_url.ico
           description: 酷 壳 – CoolShell。
+        - title: Java 全栈知识体系
+          url: https://pdai.tech/
+          logo: knowledge/pdai.ico
+          description: 包含 Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&amp;CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
     - term: 设计规范
       links:
         - title: Design Guidelines

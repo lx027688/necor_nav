@@ -76,6 +76,20 @@
           url: https://www.magiceraser.io/
           logo: magiceraser.png
           description: 在线免费AI抠图
+    - term: 开发工具
+      links:
+        - title: idea
+          logo: developTools/idea.ico
+          url: https://www.jetbrains.com/idea/
+          description: 为 Enterprise Java、Scala、Kotlin 与其他语言打造的强大且符合人体工程学的 Java IDE......
+        - title: eclipse
+          logo: developTools/eclipse.ico
+          url: https://www.eclipse.org/
+          description: Eclipse 是一个开放源代码的、基于Java的可扩展开发平台。就其本身而言，它只是一个框架和一组服务，用于通过插件组件构建开发环境。幸运的是，Eclipse 附带了一个标准的插件集，包括Java开发工具（Java Development Kit，JDK）
+        - title: apicloud
+          logo: developTools/apicloud.png
+          url: https://www.apicloud.com/
+          description: 中国领先低代码开发平台，提供高效的APP开发、手机APP制作与APP管理等服务。APICloud专注于APP定制、自建APP，是专业的APP在线制作平台，可定制电商购物、旅游、社区、同城、校园、直播、IoT、教育、金融、O2O、社交、新闻资讯、医疗等多类型行业的手机应用。使用HTML5技术同时制作苹果IOS、安卓Android手机APP。
     - term: 在线文档
       links:
         - title: Java api

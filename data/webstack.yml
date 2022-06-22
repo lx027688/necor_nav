@@ -120,6 +120,10 @@
           logo: develop/Bootstrap.jpg
           url: https://www.bootcss.com/
           description: Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。目前，Bootstrap最新版本为3.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。
+        - title: mermaid
+          logo: develop/mermaid.png
+          url: https://mermaid-js.github.io/mermaid/#/
+          description: 用于生成流程图、序列图、类图、甘特图和 git 图的 Markdownish 语法。
     - term: 技术栈
       links:
         - title: StackOverFlow

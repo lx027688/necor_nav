@@ -529,6 +529,10 @@
           url: https://www.aconvert.com/cn/
           logo: books/aconvert.jpg
           description: 电子书文件格式转换网站。
+        - title: lorefree
+          url: https://ebook2.lorefree.com/
+          logo: books/lorefree.ico
+          description: Lorefree,专业的免费电子书下载网站,支持mobi,epub,pdf,txt,azw3等阅读格式的电子书免费下载
     - term: 知识库
       links:
         - title: Inoreader

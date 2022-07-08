@@ -202,6 +202,20 @@
           logo: coding.png
           url: https://coding.net/
           description: DevOps 代码协作平台，被腾讯收购。
+    - term: 网页托管
+      links:
+        - title: Vercel
+          logo: develop/web_hosting/vercel.png
+          url: https://vercel.com/
+          description: Vercel是前端团队的最佳工作流。所有功能:静态和Jamstack部署，无服务器功能，和全局CDN。
+        - title: Netlify
+          logo: develop/web_hosting/netlify.png
+          url: https://www.netlify.com/
+          description: 一个强大的无服务器平台，具有基于 git 的直观工作流程。 自动化部署、可共享预览等等。 免费使用！
+        - title: GitHub Page
+          logo: develop/web_hosting/github_page.ico
+          url: https://pages.github.com/
+          description: 您和您的项目的网站，直接从您的 GitHub 存储库托管。 只需编辑、推送，您的更改就会生效。
 - taxonomy: 办公学习
   icon: fas fa-book fa-lg
   list:

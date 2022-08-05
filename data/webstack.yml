@@ -312,7 +312,7 @@
         - title: planetscale
           logo: resources/planetscale.ico
           url: https://planetscale.com/
-          description: 一款免费的开箱即用的面熟mysql云数据库
+          description: 一款免费的开箱即用的mysql云数据库
         - title: redis cloud
           logo: resources/rediscloud.ico
           url: https://app.redislabs.com/

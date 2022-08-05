@@ -278,7 +278,7 @@
           url: https://smallpdf.com/cn/jpg-to-pdf
           description: 将图片转换为pdf文档
 
-- taxonomy: 素材资源
+- taxonomy: 网络资源
   icon: far fa-folder-open fa-lg
   list:
     - term: 网盘资源
@@ -307,6 +307,16 @@
           logo: resources/阿里盘搜.png
           url: https://www.alipansou.com/
           description: 阿里盘搜,支持阿里云盘搜索,可快速搜索阿里云盘资源中的有效连接,每天更新海量资源
+    - term: 免费云服务资源
+      links:
+        - title: planetscale
+          logo: resources/planetscale.ico
+          url: https://planetscale.com/
+          description: 一款免费的开箱即用的面熟mysql云数据库
+        - title: redis cloud
+          logo: resources/rediscloud.ico
+          url: https://app.redislabs.com/
+          description: redis 官方免费云服务，免费空间大小30M
     - term: logo设计
       links:
         - title: 标点狗

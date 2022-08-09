@@ -291,6 +291,10 @@
           logo: resources/阿里云盘.png
           url: https://www.aliyundrive.com/
           description: 阿里云盘，你的数字世界。
+        - title: 123云盘
+          logo: resources/123pan.ico
+          url: https://www.123pan.com/
+          description: 一键下载分享文件 超大文件快传 最高支持100G文件上传 极速传输 上传下载尊享极速传输 2T超大空间 。
         - title: 天翼云盘
           logo: resources/天翼云盘.jpg
           url: https://cloud.189.cn/

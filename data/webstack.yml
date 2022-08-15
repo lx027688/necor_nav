@@ -156,7 +156,7 @@
           description: InfoQ是一个实践驱动的社区资讯站点，致力于促进软件开发及相关领域知识与创新的传播。提供架构，云计算，AI，前端，大数据，Java，软件开发，编程等技术资讯及技术会议，搭建连接中国技术高端社区与国际主流技术社区的桥梁。
         - title: LeetCode 中文站
           logo: develop/LeetCode 中文站.jpg
-          url: https://leetcode-cn.com/
+          url: https://leetcode.cn
           description: 这个是上面算法题网站的中文站点，英文不好的可以刷这个，英文好的推荐去刷英文网站的题目，还能提升英语能力。
     - term: 云服务器
       links:

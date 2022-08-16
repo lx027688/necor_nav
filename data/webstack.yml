@@ -553,18 +553,22 @@
           url: https://www.bookstack.cn/
           logo: books/书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
-        - title: BookZZ
-          url: https://zh.b-ok.org/
-          logo: books/bookzz.png
-          description: Bookzz 是一个号称是世界上最大的电子书图书馆，支持PDF、EPUB、MOBI、DOC，总之搜索电子书并下载非常实用。
         - title: Aconvert
           url: https://www.aconvert.com/cn/
           logo: books/aconvert.jpg
           description: 电子书文件格式转换网站。
+        - title: BookZZ
+          url: https://zh.b-ok.org/
+          logo: books/bookzz.png
+          description: Bookzz 是一个号称是世界上最大的电子书图书馆，支持PDF、EPUB、MOBI、DOC，总之搜索电子书并下载非常实用。
         - title: lorefree
           url: https://ebook2.lorefree.com/
           logo: books/lorefree.ico
           description: Lorefree,专业的免费电子书下载网站,支持mobi,epub,pdf,txt,azw3等阅读格式的电子书免费下载
+        - title: IT熊猫
+          url: https://itpanda.net/book/
+          logo: books/itpanda.png
+          description: 收集网络上的计算机书籍，相互分享
     - term: 知识库
       links:
         - title: Inoreader

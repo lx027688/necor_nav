@@ -307,8 +307,8 @@
           logo: resources/坚果云.png
           url: https://www.jianguoyun.com/
           description: 坚果云官网。
-        - title: 橘子搜盘
-          logo: resources/橘子搜盘.ico
+        - title: 橘子盘搜
+          logo: resources/橘子盘搜.ico
           url: https://www.nmme.cc/
           description: 橘子盘搜，是一款可以在线搜索百度云盘资源的程序，包含百度网盘，迅雷BT，阿里云盘资源，115资源。
         - title: 阿里盘搜

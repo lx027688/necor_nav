@@ -502,14 +502,10 @@
           logo: music/MyFreeMp3.png
           url: http://tools.liumingye.cn/music/?page=searchPage
           description: 免费音乐下载
-    - term: 游戏竞技
+    - term: 游戏娱乐
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/single.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
+        - title: Nexus Mods
+          logo: game/nexusmods.png
+          url: https://www.nexusmods.com/
+          description: Nexus Mods是一个全球最大规模的游戏Mod站点
 

@@ -504,6 +504,10 @@
           description: 免费音乐下载
     - term: 游戏娱乐
       links:
+        - title: byrutor
+          logo: game/byrutor.png
+          url: https://byrut.org/
+          description: 俄罗斯破解游戏网，最新（完整）版本的 PC 游戏，包含所有更新和添加内容，每日发布新游戏
         - title: Nexus Mods
           logo: game/nexusmods.png
           url: https://www.nexusmods.com/

@@ -402,6 +402,14 @@
           url: https://pdai.tech/
           logo: knowledge/pdai.ico
           description: 包含 Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&amp;CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+        - title: 廖雪峰的官方网站
+          url: https://www.liaoxuefeng.com/
+          logo: knowledge/liaoxuefeng.ico
+          description: 研究互联网产品和技术，提供原创中文精品教程
+        - title: 周立的博客
+          url: https://www.itmuch.com/
+          logo: knowledge/itmuch.jpg
+          description: Spring Cloud、Docker、微服务架构、Cloud Native相关知识分享。
     - term: 视频教程
       links:
         - title: Photoshop Lady

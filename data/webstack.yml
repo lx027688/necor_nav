@@ -410,6 +410,10 @@
           url: https://www.itmuch.com/
           logo: knowledge/itmuch.jpg
           description: Spring Cloud、Docker、微服务架构、Cloud Native相关知识分享。
+        - title: nginx-tutorial
+          url: https://dunwu.github.io/nginx-tutorial/#/
+          logo: knowledge/nginx-tutorial.png
+          description: 一个 Nginx 极简教程
     - term: 视频教程
       links:
         - title: Photoshop Lady

@@ -386,18 +386,10 @@
           description: 收集网络上的计算机书籍，相互分享
     - term: 知识库
       links:
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: default_url.ico
-          description: 酷 壳 – CoolShell。
-        - title: FreeCodeCamp
-          url: https://contribute.freecodecamp.org/
-          logo: knowledge/freeCodeCamp.ico
-          description: FreeCodeCamp 是 GitHub 上排名第一的开源项目，致力于帮助人们利用零散时间学习编程。它的使命是Learn to code and help
+        - title: w3cschool
+          url: https://www.w3cschool.cn/
+          logo: knowledge/w3cschool.ico
+          description: w3cschool启用中文品牌名--编程狮，是一个专业的W3C前端开发及编程入门学习平台，提供包括HTML,CSS,Javascript,jQuery,C,PHP,Java,Python,Sql,Mysql等编程语言和开源技术的在线教程及使用手册，是类国外w3schools的W3C学习社区及菜鸟编程平台。
         - title: Java 全栈知识体系
           url: https://pdai.tech/
           logo: knowledge/pdai.ico
@@ -414,6 +406,14 @@
           url: https://dunwu.github.io/nginx-tutorial/#/
           logo: knowledge/nginx-tutorial.png
           description: 一个 Nginx 极简教程
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: default_url.ico
+          description: 酷 壳 – CoolShell。
+        - title: FreeCodeCamp
+          url: https://contribute.freecodecamp.org/
+          logo: knowledge/freeCodeCamp.ico
+          description: FreeCodeCamp 是 GitHub 上排名第一的开源项目，致力于帮助人们利用零散时间学习编程。它的使命是Learn to code and help
     - term: 视频教程
       links:
         - title: Photoshop Lady

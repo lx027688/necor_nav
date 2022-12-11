@@ -358,7 +358,7 @@
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 资讯书籍
+    - term: 电子书籍
       links:
         - title: 微信读书
           url: https://weread.qq.com/
@@ -384,7 +384,11 @@
           url: https://itpanda.net/book/
           logo: books/itpanda.png
           description: 收集网络上的计算机书籍，相互分享
-    - term: 知识库
+        - title: MOX
+          url: https://mox.moe/
+          logo: books/mox.png
+          description: 高清Kindle格式漫画下载，支持推送漫画到kindle设备。
+    - term: IT知识库
       links:
         - title: w3cschool
           url: https://www.w3cschool.cn/
@@ -414,24 +418,20 @@
           url: https://contribute.freecodecamp.org/
           logo: knowledge/freeCodeCamp.ico
           description: FreeCodeCamp 是 GitHub 上排名第一的开源项目，致力于帮助人们利用零散时间学习编程。它的使命是Learn to code and help
-    - term: 视频教程
+    - term: 知识科普
       links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
+        - title: wikiHow
+          url: https://zh.wikihow.com/
+          logo: knowledge/wikihow.png
+          description: wikiHow是一项协作项目，目标是建立世界最大的最高质量的指导手册。无论您想做什么，我们的多语种指导手册都可以为您提供免费的逐步指导。
+        - title: 科学松鼠会
+          url: https://songshuhui.net/
+          logo: knowledge/kxssh.ico
+          description: 知识科学松鼠会是一个汇聚了当代最优秀的华语青年科学传播者的非营利机构，旨在“剥开科学的坚果，帮助人们领略科学之美妙
+        - title: 中国生物志库
+          url: https://species.sciencereading.cn/
+          logo: knowledge/species.png
+          description: 中国生物志库是我国首个权威发布且具有完整知识产权的中国生物物种全信息数据库，收录了近10万种中国现生生物物种，记录了我国所有植物资源4万余种的生物学信息。包括植物的权威名称、分类地位、形态特征、分布、功用、理论知识等内容。每个物种信息均经过专家的科研论证与权威鉴定，可供植物学、农林、医药、海洋、生态、检验检疫等科研人员、教师和学生查询和学习，也可供普通大众全面学习中国植物科学知识使用。
         
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -458,6 +458,10 @@
           logo: 电影天堂.png
           url: https://www.dygod.net/
           description: 电影天堂（DYGOD），高清电影下载。
+        - title: 厂长资源
+          logo: recreation/厂长资源.png
+          url: https://www.czspp.com/
+          description: 厂长资源(CZZY)为您提供视频在线免费播放，最新高清电影、电视剧、欧美剧集、日韩剧集、海量1080p经典影视免费观看！美剧、韩剧推荐！
         - title: 电影先生
           logo: recreation/电影先生.png
           url: http://www.dianyingim.com/
@@ -466,10 +470,10 @@
           logo: recreation/片库.png
           url: https://www.pkmp4.com/
           description: 片库网是一个可在线观看、下载视频的网站。每日收集全网最新的电影、剧集、动漫高清资源供网友免费下载！
-        - title: 白嫖者联盟
-          logo: recreation/白嫖者联盟.png
-          url: https://www.bpzhe.com/
-          description: 白嫖者联盟是中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺应有尽有。
+        - title: 豌豆PRO
+          logo: recreation/豌豆PRO.svg
+          url: https://www.wandou.pro/
+          description: 豌豆Pro是中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺、记录片应有尽有。
     - term: 影视资源下载
       links:
         - title: 蓝光电影
@@ -520,6 +524,14 @@
           logo: game/byrutor.png
           url: https://byrut.org/
           description: 俄罗斯破解游戏网，最新（完整）版本的 PC 游戏，包含所有更新和添加内容，每日发布新游戏
+        - title: GBT乐赏游戏空间
+          logo: game/game.ico
+          url: http://gbtgame.ysepan.com/
+          description: 收录了2006至现在绝大多数游戏
+        - title: flysheep资源避难所
+          logo: game/game.ico
+          url: http://flysheep.ysepan.com/
+          description: 分类做很好的游戏资源网站
         - title: Nexus Mods
           logo: game/nexusmods.png
           url: https://www.nexusmods.com/

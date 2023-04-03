@@ -1,6 +1,6 @@
-baseURL = "https://www.lxoxl.cn"
+baseURL = "https://www.0ono0.cn"
 languageCode = "zh-CN"
-title = "lxoxl网址导航"
+title = "0ono0网址导航"
 theme = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
@@ -9,13 +9,13 @@ publishDir = "public"
 
 [params]
     author        = "necor"
-    keywords = '导航,上网导航,网址大全,网站导航,网址导航,推荐网站,lxoxl,lxoxl网址导航'
-    description   = "lxoxl网址导航--一个主页，整个世界，为用户提供各种分类的优秀内容和网站入口，提供简单便捷的上网导航服务。"
+    keywords = '导航,上网导航,网址大全,网站导航,网址导航,推荐网站,0ono0,0ono0网址导航'
+    description   = "0ono0网址导航--一个主页，整个世界，为用户提供各种分类的优秀内容和网站入口，提供简单便捷的上网导航服务。"
     siteurl       = "./"
-    about         = "https://www.lxoxl.cn"   # 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://www.lxoxl.cn"
+    about         = "https://www.0ono0.cn"   # 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://www.0ono0.cn"
     enablePreLoad = true		    		    # 网站完全打开前预加载的动画
-    textPreLoad   = "lxoxl网址导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "0ono0网址导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     logosPath     = "assets/images/logos"		# 网站每个导航地址logo存放地址
 
 [params.qweather]
@@ -31,4 +31,4 @@ publishDir = "public"
     logoCollapseDark  = "assets/images/logo-collapse.png"
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：hackerlixiang@163.com <br/>&copy; 2021 - {year} By [lxoxl](https://www.lxoxl.cn) <br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：hackerlixiang@163.com <br/>&copy; 2021 - {year} By [0ono0](https://www.0ono0.cn) <br/>'

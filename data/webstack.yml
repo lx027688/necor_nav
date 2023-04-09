@@ -23,6 +23,29 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
+- taxonomy: AI
+  icon: fas fa-robot
+  links:
+    - title: chatgpt
+      logo: ai/chatgpt.png
+      url: https://openai.com/blog/chatgpt
+      description: 目前最火的人工智能
+    - title: notion
+      logo: ai/notionai.ico
+      url: https://www.notion.so/
+      description: 国内可免费访问的ai产品
+    - title: 文心一言
+      logo: ai/文心一言.ico
+      url: https://yiyan.baidu.com/
+      description: 百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。
+    - title: 通义千问
+      logo: ai/通义千问.png
+      url: https://tongyi.aliyun.com/
+      description: 阿里云官方自研大模型，目前只能邀请用户测试体验。
+    - title: midjourney
+      logo: ai/midjourney.png
+      url: https://www.midjourney.com/
+      description: 一款2022年3月面世的AI绘画工具，创始人是David Holz。只要输入想到的文字，就能通过人工智能产出相对应的图片，耗时只有大约一分钟。
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list:
@@ -269,6 +292,10 @@
           logo: resources/rediscloud.ico
           url: https://app.redislabs.com/
           description: redis 官方免费云服务，免费空间大小30M
+        - title: hyperbeam
+          logo: resources/hyperbeam.png
+          url: https://hyperbeam.com/
+          description: 免费在线云浏览器，可魔法上网。
     - term: logo设计
       links:
         - title: 标点狗
@@ -301,10 +328,6 @@
           logo: Iconfinder.png
           url: https://www.iconfinder.com
           description: 2,100,000+ free and premium vector icons.
-        - title: iconmonstr
-          logo: iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project.
         - title: IcoMoonApp
           logo: IcoMoonApp.png
           url: https://icomoon.io/app/
@@ -313,20 +336,12 @@
           logo: flaticon.png
           url: https://www.flaticon.com/
           description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: Material icons
-          logo: Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
     - term: 平面素材
       links:
         - title: freepik
           logo: freepik.png
           url: https://www.freepik.com/
           description: More than a million free vectors, PSD, photos and free icons.
-        - title: 365PSD
-          logo: 365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations.
         - title: Medialoot
           logo: Medialoot.png
           url: https://medialoot.com/
@@ -464,7 +479,7 @@
           description: 厂长资源(CZZY)为您提供视频在线免费播放，最新高清电影、电视剧、欧美剧集、日韩剧集、海量1080p经典影视免费观看！美剧、韩剧推荐！
         - title: 电影先生
           logo: recreation/电影先生.png
-          url: http://www.dianyingim.com/
+          url: https://dyxs15.com/
           description: 电影先生聚合全网影片，你想看的全都有！电影先生每天搜集互联网最新电影和电视剧，为广大用户免费提供无广告在线观看电影和电视剧服务，及时收录最新、最热、最全的电影大片,高清正版免费看。
         - title: 片库
           logo: recreation/片库.png
@@ -480,10 +495,6 @@
           logo: recreation/蓝光电影.png
           url: http://blu-raydisc.tv/
           description: 蓝光电影-虚拟现实-720P高清1080P蓝光原盘3D电影VR游戏下载网-正版蓝光电影网购买
-        - title: 悠悠MP4
-          logo: recreation/悠悠MP4.png
-          url: https://www.uump4.net/
-          description: uump4是老牌电影下载站，是悠悠鸟、久久MP4、电影天堂官方网站，每日更新2019年最新电影电视剧，720p|1080p|4K 等超高清分辨率电影电视剧迅雷下载、bt种子网盘离线下载等资源。支持手机、ipad访问。
         - title: 高清网
           logo: recreation/高清网.ico
           url:  https://www.gaoqingw.com/
@@ -492,10 +503,6 @@
           logo: recreation/迅雷电影天堂.png
           url: https://xunlei8.cc/movies.html
           description: 迅雷电影天堂 - 全球领先的高清电影下载平台，以丰富的内容、极致的下载体验、满足您最新电影迅雷下载和BT下载需求。每日更新720p、1080p，蓝光高清电影下载资源。
-        - title: BD影视
-          logo: recreation/BD影视.png
-          url: https://www.bd-film.com/
-          description: BD影视资源分享网站,主要提供丰富的影视资源下载,并且可以在线云播预览,上映之后三个月内发布枪版,三个月之后发布蓝光高清下载
         - title: 射手网(伪)
           logo: recreation/射手网.png
           url: https://secure.assrt.net/

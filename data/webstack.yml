@@ -508,7 +508,7 @@
           url: https://secure.assrt.net/
           description: 电影字幕下载
         - title: NECOR影视
-          logo: recreation/BD影视.png
+          logo: recreation/necor电影.png
           url: /movie
           description: NECOR影视资源分享网站,主要提供丰富的影视资源下载,并且可以在线云播预览,上映之后三个月内发布枪版,三个月之后发布蓝光高清下载
     - term: 音乐频道

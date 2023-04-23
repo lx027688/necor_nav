@@ -30,10 +30,10 @@
       logo: ai/chatgpt.png
       url: https://openai.com/blog/chatgpt
       description: 目前最火的人工智能
-    - title: notion
-      logo: ai/notionai.ico
-      url: https://www.notion.so/
-      description: 国内可免费访问的ai产品
+    - title: Stable Diffusion Online
+      logo: ai/Stable_Diffusion_Online.png
+      url: https://stablediffusionweb.com
+      description: Stable Diffusion在线服务。 永远免费。 使用稳定的在线传播创造美丽的艺术
     - title: 文心一言
       logo: ai/文心一言.ico
       url: https://yiyan.baidu.com/

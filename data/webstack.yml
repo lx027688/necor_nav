@@ -413,6 +413,10 @@
           url: https://pdai.tech/
           logo: knowledge/pdai.ico
           description: 包含 Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&amp;CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+        - title: JavaGuide
+          url: https://javaguide.cn/
+          logo: knowledge/javaGuide.png
+          description: 「Java学习 + 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
         - title: 廖雪峰的官方网站
           url: https://www.liaoxuefeng.com/
           logo: knowledge/liaoxuefeng.ico

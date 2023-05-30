@@ -433,6 +433,10 @@
           url: https://yeasy.gitbook.io/docker_practice
           logo: knowledge/docker_study.png
           description: 一个 Docker 教程
+        - title: TypeScript 入门教程
+          url: http://ts.xcatliu.com/
+          logo: knowledge/typescript.png
+          description: 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。
         - title: 酷壳
           url: https://www.coolshell.cn/
           logo: default_url.ico

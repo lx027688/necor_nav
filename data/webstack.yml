@@ -7,6 +7,10 @@
       logo: recommend/童年回忆杀.png
       url: https://www.yikm.net/
       description: 魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇。这些小时候的回忆，黑白电视机前玩着小霸王游戏机的那种感觉令人怀念，希望大家可以找回童年的快乐">魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇。这些小时候的回忆，黑白电视机前玩着小霸王游戏机的那种感觉令人怀念，希望大家可以找回童年的快乐
+    - title: switch520
+      logo: recommend/switch520.png
+      url: https://xxxxx520.cam/
+      description: 免费白嫖游戏的网站
     - title: 果汁排行榜
       logo: recommend/果汁排行榜.ico
       url: http://guozhivip.com/rank/
@@ -19,15 +23,38 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
+- taxonomy: AI
+  icon: fas fa-robot
+  links:
+    - title: chatgpt
+      logo: ai/chatgpt.png
+      url: https://openai.com/blog/chatgpt
+      description: 目前最火的人工智能
+    - title: Stable Diffusion Online
+      logo: ai/Stable_Diffusion_Online.png
+      url: https://stablediffusionweb.com
+      description: Stable Diffusion在线服务。 永远免费。 使用稳定的在线传播创造美丽的艺术
+    - title: 文心一言
+      logo: ai/文心一言.ico
+      url: https://yiyan.baidu.com/
+      description: 百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。
+    - title: 通义千问
+      logo: ai/通义千问.png
+      url: https://tongyi.aliyun.com/
+      description: 阿里云官方自研大模型，目前只能邀请用户测试体验。
+    - title: midjourney
+      logo: ai/midjourney.png
+      url: https://www.midjourney.com/
+      description: 一款2022年3月面世的AI绘画工具，创始人是David Holz。只要输入想到的文字，就能通过人工智能产出相对应的图片，耗时只有大约一分钟。
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list:
     - term: 在线工具
       links:
         - title: json在线工具
-          url: https://tool.chinaz.com/tools/jsonformat.aspx
+          url: https://www.bejson.com/
           logo: onlineTools/json工具.jpg
-          description: 在线格式化json数据
+          description: 在线,JSON,JSON 校验,格式化,xml转json 工具,在线工具,json视图,可视化,程序,服务器,域名注册,正则表达式,测试,在线json格式化工具,json 格式化,json格式化工具,json字符串格式化,json 在线查看器,json在线,json 在线验证,json tools online,在线文字对比工具
         - title: Linux命令大全
           url: https://www.linuxcool.com/
           logo: onlineTools/linuxcool.png
@@ -46,36 +73,44 @@
           description: 图片base64编码
         - title: 时间戳转换
           url: https://tool.lu/timestamp/
-          logo: develop/timestamp.jpg
+          logo: onlineTools/timestamp.jpg
           description: 时间戳转换时间，时间转换时间戳
         - title: 图片去底
           url: https://www.aigei.com/bgremover
-          logo: develop/去底色.jpg
+          logo: onlineTools/去底色.jpg
           description: BgRemover,图片去底,去除图片底色,背景变透明,在线版
         - title: tinypng
           url: https://tinypng.com/
-          logo: tinypng.png
+          logo: onlineTools/tinypng.png
           description: Optimize your images with a perfect balance in quality and file size.
         - title: convertio
           url: https://convertio.co/
-          logo: tools/convertio.png
+          logo: onlineTools/convertio.png
           description: 免费的在线音视频转换器
         - title: goqr
           url: http://goqr.me/
-          logo: goqr.png
+          logo: onlineTools/goqr.png
           description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
-        - title: ezgif
+        - title: onlineTools/ezgif
           url: https://ezgif.com
-          logo: ezgif.png
+          logo: onlineTools/ezgif.png
           description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
         - title: magiceraser
           url: https://www.magiceraser.io/
-          logo: magiceraser.png
+          logo: onlineTools/magiceraser.png
           description: 在线免费AI抠图
+        - title: 谷歌翻译
+          logo:  onlineTools/谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。
+        - title: ProcessOn
+          logo: onlineTools/ProcessOn.png
+          url: https://www.processon.com/
+          description: 免费在线作图、实时协作。
+        - title: 文档转换
+          logo: onlineTools/doctool.png
+          url: https://smallpdf.com/cn/
+          description: 帮您免费在线转换、压缩、编辑、签署PDF文档。
     - term: 开发工具
       links:
         - title: idea
@@ -152,7 +187,7 @@
           description: InfoQ是一个实践驱动的社区资讯站点，致力于促进软件开发及相关领域知识与创新的传播。提供架构，云计算，AI，前端，大数据，Java，软件开发，编程等技术资讯及技术会议，搭建连接中国技术高端社区与国际主流技术社区的桥梁。
         - title: LeetCode 中文站
           logo: develop/LeetCode 中文站.jpg
-          url: https://leetcode-cn.com/
+          url: https://leetcode.cn
           description: 这个是上面算法题网站的中文站点，英文不好的可以刷这个，英文好的推荐去刷英文网站的题目，还能提升英语能力。
     - term: 云服务器
       links:
@@ -172,14 +207,6 @@
           logo: develop/百度云.jpg
           url: https://cloud.baidu.com/
           description: 百度智能云是百度基于17年技术积累提供的稳定、高可用、可扩展的云计算服务。云服务器、BAE提供多种建站配置，云存储、CDN、视频转码为在线教育及视频网站提供一站式解决方案。更有云数据库，MapReduce等多种云端服务，7*24小时技术支持，免费备案
-        - title: 云筏科技
-          logo: default_url.ico
-          url: https://my.cloudraft.cn/
-          description: 云筏 - 科研云。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
         - title: 青椒云
           logo: 青椒云.jpg
           url: https://www.qingjiaocloud.com/
@@ -216,65 +243,7 @@
           logo: develop/web_hosting/github_page.ico
           url: https://pages.github.com/
           description: 您和您的项目的网站，直接从您的 GitHub 存储库托管。 只需编辑、推送，您的更改就会生效。
-- taxonomy: 办公学习
-  icon: fas fa-book fa-lg
-  list:
-    - term: 办公工具
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        - title: pdf转Word
-          logo: office/pdf转word.png
-          url: https://smallpdf.com/cn/pdf-to-word
-          description: 将pdf转换为word文档。
-        - title: pdf转图片
-          logo: office/pdf转图片.png
-          url: https://smallpdf.com/cn/pdf-to-jpg
-          description: 将pdf转换为图片
-        - title: pdf转ppt
-          logo: office/pdf转ppt.png
-          url: https://smallpdf.com/cn/pdf-to-ppt
-          description: 将pdf转换为ppt文档
-        - title: pdf转excl
-          logo: office/pdf转excl.png
-          url: https://smallpdf.com/cn/pdf-to-excel
-          description: 将pdf转换为excl文档
-        - title: pdf转html
-          logo: office/pdf转html.png
-          url: http://pdfdo.com/pdf-to-html.aspx
-          description: 将pdf转换为html
-        - title: word转pdf
-          logo: office/word转pdf.png
-          url: https://smallpdf.com/cn/word-to-pdf
-          description: 将word转换为pdf文档
-        - title: excl转pdf
-          logo: office/excl转pdf.png
-          url: https://smallpdf.com/cn/excel-to-pdf
-          description: 将excl转换为pdf文档
-        - title: ppt转pdf
-          logo: office/ppt转pdf.png
-          url: https://smallpdf.com/cn/ppt-to-pdf
-          description: 将ppt转换为pdf文档
-        - title: 图片转pdf
-          logo: office/图片转pdf.png
-          url: https://smallpdf.com/cn/jpg-to-pdf
-          description: 将图片转换为pdf文档
-
-- taxonomy: 素材资源
+- taxonomy: 网络资源
   icon: far fa-folder-open fa-lg
   list:
     - term: 网盘资源
@@ -287,6 +256,10 @@
           logo: resources/阿里云盘.png
           url: https://www.aliyundrive.com/
           description: 阿里云盘，你的数字世界。
+        - title: 123云盘
+          logo: resources/123pan.ico
+          url: https://www.123pan.com/
+          description: 一键下载分享文件 超大文件快传 最高支持100G文件上传 极速传输 上传下载尊享极速传输 2T超大空间 。
         - title: 天翼云盘
           logo: resources/天翼云盘.jpg
           url: https://cloud.189.cn/
@@ -295,14 +268,34 @@
           logo: resources/坚果云.png
           url: https://www.jianguoyun.com/
           description: 坚果云官网。
-        - title: 熊猫搜盘
-          logo: resources/熊猫搜盘.png
-          url: https://www.sopandas.com/
-          description: 熊猫搜盘是搜索直达网盘资源的盘搜工具，海量网盘资源免费搜索，帮您快速搜索到小说，影视，游戏，音乐，学习资料等各类稀缺、有用的网盘下载链接。找网盘资源，就上熊猫搜盘。
+        - title: 橘子盘搜
+          logo: resources/橘子盘搜.ico
+          url: https://www.nmme.cc/
+          description: 橘子盘搜，是一款可以在线搜索百度云盘资源的程序，包含百度网盘，迅雷BT，阿里云盘资源，115资源。
         - title: 阿里盘搜
           logo: resources/阿里盘搜.png
           url: https://www.alipansou.com/
           description: 阿里盘搜,支持阿里云盘搜索,可快速搜索阿里云盘资源中的有效连接,每天更新海量资源
+    - term: 资源站
+      links:
+        - title: 软仓
+          logo: resources/ruancang.png
+          url: https://www.ruancang.net/
+          description: 软仓是一个集合专业软件的导航网站，免费下载供学习使用，本站承诺无毒无广告，纯公益项目，不以此盈利
+    - term: 免费云服务资源
+      links:
+        - title: planetscale
+          logo: resources/planetscale.ico
+          url: https://planetscale.com/
+          description: 一款免费的开箱即用的mysql云数据库
+        - title: redis cloud
+          logo: resources/rediscloud.ico
+          url: https://app.redislabs.com/
+          description: redis 官方免费云服务，免费空间大小30M
+        - title: hyperbeam
+          logo: resources/hyperbeam.png
+          url: https://hyperbeam.com/
+          description: 免费在线云浏览器，可魔法上网。
     - term: logo设计
       links:
         - title: 标点狗
@@ -321,78 +314,34 @@
           logo: worldvectorlogo.png
           url: https://worldvectorlogo.com/
           description: Brand logos free to download.
-        - title: Instant Logo Search
-          logo: InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly.
     - term: 图标素材
       links:
-        - title: Iconfinder
-          logo: Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
         - title: iconfont
           logo: iconfont.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库。
-        - title: iconmonstr
-          logo: iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project.
-        - title: Icon Archive
-          logo: iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons.
-        - title: FindIcons
-          logo: FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons.
-        - title: IcoMoonApp
-          logo: IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator.
-        - title: easyicon
-          logo: easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
-        - title: flaticon
-          logo: flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
         - title: Font Awesome Icon
           logo: fontawesomeicon.png
           url: https://fontawesome.com/icons/
           description: The complete set of 675 icons in Font Awesome.
-        - title: ion icons
-          logo: ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack.
+        - title: Iconfinder
+          logo: Iconfinder.png
+          url: https://www.iconfinder.com
+          description: 2,100,000+ free and premium vector icons.
+        - title: IcoMoonApp
+          logo: IcoMoonApp.png
+          url: https://icomoon.io/app/
+          description: Icon Font, SVG, PDF &amp; PNG Generator.
+        - title: flaticon
+          logo: flaticon.png
+          url: https://www.flaticon.com/
+          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
     - term: 平面素材
       links:
         - title: freepik
           logo: freepik.png
           url: https://www.freepik.com/
           description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
-          logo: 365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations.
         - title: Medialoot
           logo: Medialoot.png
           url: https://medialoot.com/
@@ -421,111 +370,10 @@
           logo: lanrentuku.png
           url: http://www.lanrentuku.com/
           description: 懒人图库专注于提供网页素材下载。
-        - title: 素材搜索
-          logo: sousucai.png
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合。
-        - title: PS 饭团网
-          logo: psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
-        - title: 素材中国
-          logo: sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台。
-    - term: 字体资源
-      links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography.
-        - title: Typekit
-          url: https://typekit.com/
-          logo: typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: Fondertype.png
-          description: 方正字库官方网站。
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: ziticq.png
-          description: 中国首个字体品牌设计师交流网。
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: sicangziti.png
-          description: 优质字体免费下载站。
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: fontsquirrel.png
-          description: FREE fonts for graphic designers.
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry.
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: fontex.png
-          description: Free Fonts to Download + Premium Typefaces.
-        - title: FontM
-          url: http://fontm.com/
-          logo: FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: MyFonts.png
-          description: Fonts for Print, Products & Screens.
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download.
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
-    - term: PPT资源
-      links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
-        - title: PPT+
-          url: http://www.pptplus.cn/
-          logo: pptplus.png
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台。
-        - title: PPTMind
-          url: http://www.pptmind.com/
-          logo: pptmind.png
-          description: 分享高端 ppt 模板与 keynote 模板的数字作品交易平台。
-        - title: tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: tretars.png
-          description: The best free Mockups from the Web.
-        - title: 5百丁
-          url: http://ppt.500d.me/
-          logo: 500d.png
-          description: 中国领先的PPT模板共享平台。
-
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 资讯书籍
+    - term: 电子书籍
       links:
         - title: 微信读书
           url: https://weread.qq.com/
@@ -535,88 +383,82 @@
           url: https://www.bookstack.cn/
           logo: books/书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
-        - title: BookZZ
-          url: https://www.bookzz.ren/
-          logo: books/bookzz.png
-          description: Bookzz 是一个号称是世界上最大的电子书图书馆，支持PDF、EPUB、MOBI、DOC，总之搜索电子书并下载非常实用。
         - title: Aconvert
           url: https://www.aconvert.com/cn/
           logo: books/aconvert.jpg
           description: 电子书文件格式转换网站。
+        - title: BookZZ
+          url: https://zh.b-ok.org/
+          logo: books/bookzz.png
+          description: Bookzz 是一个号称是世界上最大的电子书图书馆，支持PDF、EPUB、MOBI、DOC，总之搜索电子书并下载非常实用。
         - title: lorefree
           url: https://ebook2.lorefree.com/
           logo: books/lorefree.ico
           description: Lorefree,专业的免费电子书下载网站,支持mobi,epub,pdf,txt,azw3等阅读格式的电子书免费下载
-    - term: 知识库
+        - title: IT熊猫
+          url: https://itpanda.net/book/
+          logo: books/itpanda.png
+          description: 收集网络上的计算机书籍，相互分享
+        - title: MOX
+          url: https://mox.moe/
+          logo: books/mox.png
+          description: 高清Kindle格式漫画下载，支持推送漫画到kindle设备。
+    - term: IT知识库
       links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: default_url.ico
-          description: 酷 壳 – CoolShell。
+        - title: w3cschool
+          url: https://www.w3cschool.cn/
+          logo: knowledge/w3cschool.ico
+          description: w3cschool启用中文品牌名--编程狮，是一个专业的W3C前端开发及编程入门学习平台，提供包括HTML,CSS,Javascript,jQuery,C,PHP,Java,Python,Sql,Mysql等编程语言和开源技术的在线教程及使用手册，是类国外w3schools的W3C学习社区及菜鸟编程平台。
         - title: Java 全栈知识体系
           url: https://pdai.tech/
           logo: knowledge/pdai.ico
           description: 包含 Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&amp;CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+        - title: JavaGuide
+          url: https://javaguide.cn/
+          logo: knowledge/javaGuide.png
+          description: 「Java学习 + 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+        - title: 廖雪峰的官方网站
+          url: https://www.liaoxuefeng.com/
+          logo: knowledge/liaoxuefeng.ico
+          description: 研究互联网产品和技术，提供原创中文精品教程
+        - title: 周立的博客
+          url: https://www.itmuch.com/
+          logo: knowledge/itmuch.jpg
+          description: Spring Cloud、Docker、微服务架构、Cloud Native相关知识分享。
+        - title: nginx-tutorial
+          url: https://dunwu.github.io/nginx-tutorial/#/
+          logo: knowledge/nginx-tutorial.png
+          description: 一个 Nginx 极简教程 https://yeasy.gitbook.io/docker_practice
+        - title: Docker — 从入门到实践
+          url: https://yeasy.gitbook.io/docker_practice
+          logo: knowledge/docker_study.png
+          description: 一个 Docker 教程
+        - title: TypeScript 入门教程
+          url: http://ts.xcatliu.com/
+          logo: knowledge/typescript.png
+          description: 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: default_url.ico
+          description: 酷 壳 – CoolShell。
         - title: FreeCodeCamp
           url: https://contribute.freecodecamp.org/
           logo: knowledge/freeCodeCamp.ico
           description: FreeCodeCamp 是 GitHub 上排名第一的开源项目，致力于帮助人们利用零散时间学习编程。它的使命是Learn to code and help
-    - term: 设计规范
+    - term: 知识科普
       links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: human_interface_guidelines.png
-          description: Human Interface Guidelines iOS.
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: photoshopetiquette.png
-          description: PS礼仪-WEB设计指南。
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
+        - title: wikiHow
+          url: https://zh.wikihow.com/
+          logo: knowledge/wikihow.png
+          description: wikiHow是一项协作项目，目标是建立世界最大的最高质量的指导手册。无论您想做什么，我们的多语种指导手册都可以为您提供免费的逐步指导。
+        - title: 科学松鼠会
+          url: https://songshuhui.net/
+          logo: knowledge/kxssh.ico
+          description: 知识科学松鼠会是一个汇聚了当代最优秀的华语青年科学传播者的非营利机构，旨在“剥开科学的坚果，帮助人们领略科学之美妙
+        - title: 中国生物志库
+          url: https://species.sciencereading.cn/
+          logo: knowledge/species.png
+          description: 中国生物志库是我国首个权威发布且具有完整知识产权的中国生物物种全信息数据库，收录了近10万种中国现生生物物种，记录了我国所有植物资源4万余种的生物学信息。包括植物的权威名称、分类地位、形态特征、分布、功用、理论知识等内容。每个物种信息均经过专家的科研论证与权威鉴定，可供植物学、农林、医药、海洋、生态、检验检疫等科研人员、教师和学生查询和学习，也可供普通大众全面学习中国植物科学知识使用。
         
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -643,28 +485,28 @@
           logo: 电影天堂.png
           url: https://www.dygod.net/
           description: 电影天堂（DYGOD），高清电影下载。
+        - title: 厂长资源
+          logo: recreation/厂长资源.png
+          url: https://www.czspp.com/
+          description: 厂长资源(CZZY)为您提供视频在线免费播放，最新高清电影、电视剧、欧美剧集、日韩剧集、海量1080p经典影视免费观看！美剧、韩剧推荐！
         - title: 电影先生
           logo: recreation/电影先生.png
-          url: http://www.dianyingim.com/
+          url: https://dyxs15.com/
           description: 电影先生聚合全网影片，你想看的全都有！电影先生每天搜集互联网最新电影和电视剧，为广大用户免费提供无广告在线观看电影和电视剧服务，及时收录最新、最热、最全的电影大片,高清正版免费看。
         - title: 片库
           logo: recreation/片库.png
           url: https://www.pkmp4.com/
           description: 片库网是一个可在线观看、下载视频的网站。每日收集全网最新的电影、剧集、动漫高清资源供网友免费下载！
-        - title: 白嫖者联盟
-          logo: recreation/白嫖者联盟.png
-          url: https://www.bpzhe.com/
-          description: 白嫖者联盟是中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺应有尽有。
+        - title: 豌豆PRO
+          logo: recreation/豌豆PRO.svg
+          url: https://www.wandou.pro/
+          description: 豌豆Pro是中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺、记录片应有尽有。
     - term: 影视资源下载
       links:
         - title: 蓝光电影
           logo: recreation/蓝光电影.png
           url: http://blu-raydisc.tv/
           description: 蓝光电影-虚拟现实-720P高清1080P蓝光原盘3D电影VR游戏下载网-正版蓝光电影网购买
-        - title: 悠悠MP4
-          logo: recreation/悠悠MP4.png
-          url: https://www.uump4.net/
-          description: uump4是老牌电影下载站，是悠悠鸟、久久MP4、电影天堂官方网站，每日更新2019年最新电影电视剧，720p|1080p|4K 等超高清分辨率电影电视剧迅雷下载、bt种子网盘离线下载等资源。支持手机、ipad访问。
         - title: 高清网
           logo: recreation/高清网.ico
           url:  https://www.gaoqingw.com/
@@ -673,16 +515,12 @@
           logo: recreation/迅雷电影天堂.png
           url: https://xunlei8.cc/movies.html
           description: 迅雷电影天堂 - 全球领先的高清电影下载平台，以丰富的内容、极致的下载体验、满足您最新电影迅雷下载和BT下载需求。每日更新720p、1080p，蓝光高清电影下载资源。
-        - title: BD影视
-          logo: recreation/BD影视.png
-          url: https://www.bd2020.com/
-          description: BD影视资源分享网站,主要提供丰富的影视资源下载,并且可以在线云播预览,上映之后三个月内发布枪版,三个月之后发布蓝光高清下载
         - title: 射手网(伪)
           logo: recreation/射手网.png
           url: https://secure.assrt.net/
           description: 电影字幕下载
         - title: NECOR影视
-          logo: recreation/BD影视.png
+          logo: recreation/necor电影.png
           url: /movie
           description: NECOR影视资源分享网站,主要提供丰富的影视资源下载,并且可以在线云播预览,上映之后三个月内发布枪版,三个月之后发布蓝光高清下载
     - term: 音乐频道
@@ -699,14 +537,22 @@
           logo: music/MyFreeMp3.png
           url: http://tools.liumingye.cn/music/?page=searchPage
           description: 免费音乐下载
-    - term: 游戏竞技
+    - term: 游戏娱乐
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/single.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
+        - title: byrutor
+          logo: game/byrutor.png
+          url: https://byrut.org/
+          description: 俄罗斯破解游戏网，最新（完整）版本的 PC 游戏，包含所有更新和添加内容，每日发布新游戏
+        - title: GBT乐赏游戏空间
+          logo: game/game.ico
+          url: http://gbtgame.ysepan.com/
+          description: 收录了2006至现在绝大多数游戏
+        - title: flysheep资源避难所
+          logo: game/game.ico
+          url: http://flysheep.ysepan.com/
+          description: 分类做很好的游戏资源网站
+        - title: Nexus Mods
+          logo: game/nexusmods.png
+          url: https://www.nexusmods.com/
+          description: Nexus Mods是一个全球最大规模的游戏Mod站点
 

@@ -503,14 +503,14 @@
           description: 豌豆Pro是中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺、记录片应有尽有。
     - term: 影视资源下载
       links:
-        - title: 蓝光电影
-          logo: recreation/蓝光电影.png
-          url: http://blu-raydisc.tv/
-          description: 蓝光电影-虚拟现实-720P高清1080P蓝光原盘3D电影VR游戏下载网-正版蓝光电影网购买
-        - title: 高清网
-          logo: recreation/高清网.ico
-          url:  https://www.gaoqingw.com/
-          description: 中国高清网是每天关注提供720p高清、1080p高清、蓝光原盘高清、高清3d高清、高清mv最新热门bt种子磁力链迅雷下载网站，是下载了解高清电影天堂！
+        - title: 音范丝
+          logo: recreation/音范丝.ico
+          url: https://www.yinfans.me/
+          description: 音范丝是一个搜集、精选的高品质电影资源网站。
+        - title: 布谷TV
+          logo: recreation/布谷TV.jpg
+          url: https://www.bugutv.org/
+          description: 布谷TV,4K电影爱好者基地,免费下载4K电影,4K蓝光原盘,4K电视剧,4K杜比视界,4K纪录片,4K演示片。
         - title: 迅雷电影天堂
           logo: recreation/迅雷电影天堂.png
           url: https://xunlei8.cc/movies.html

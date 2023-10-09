@@ -387,14 +387,18 @@
           url: https://www.aconvert.com/cn/
           logo: books/aconvert.jpg
           description: 电子书文件格式转换网站。
-        - title: BookZZ
-          url: https://zh.b-ok.org/
-          logo: books/bookzz.png
-          description: Bookzz 是一个号称是世界上最大的电子书图书馆，支持PDF、EPUB、MOBI、DOC，总之搜索电子书并下载非常实用。
-        - title: lorefree
-          url: https://ebook2.lorefree.com/
-          logo: books/lorefree.ico
-          description: Lorefree,专业的免费电子书下载网站,支持mobi,epub,pdf,txt,azw3等阅读格式的电子书免费下载
+        - title: Libgen
+          url: https://libgen.is/
+          logo: books/Libgen.png
+          description: Library Genesis 是一个以收集自然科学学科和工程学书籍为目标的科学社区。
+#        - title: BookZZ
+#          url: https://zh.b-ok.org/
+#          logo: books/bookzz.png
+#          description: Bookzz 是一个号称是世界上最大的电子书图书馆，支持PDF、EPUB、MOBI、DOC，总之搜索电子书并下载非常实用。
+#        - title: lorefree
+#          url: https://ebook2.lorefree.com/
+#          logo: books/lorefree.ico
+#          description: Lorefree,专业的免费电子书下载网站,支持mobi,epub,pdf,txt,azw3等阅读格式的电子书免费下载
         - title: IT熊猫
           url: https://itpanda.net/book/
           logo: books/itpanda.png

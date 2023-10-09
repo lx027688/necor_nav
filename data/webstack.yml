@@ -425,10 +425,14 @@
           url: https://www.itmuch.com/
           logo: knowledge/itmuch.jpg
           description: Spring Cloud、Docker、微服务架构、Cloud Native相关知识分享。
-        - title: 阿斌Java之路
-          url: https://www.yuque.com/snab/java
-          logo: knowledge/abing.png
-          description: 学Java一个知识库就够了。包含全套java学习路线，...
+        - title: java-tutorial
+          url: https://dunwu.github.io/java-tutorial/
+          logo: knowledge/nginx-tutorial.png
+          description: java-tutorial 是一个 Java 教程，汇集一个老司机在 Java 领域的十年积累。
+        - title: linux-tutorial
+          url: https://dunwu.github.io/linux-tutorial/
+          logo: knowledge/nginx-tutorial.png
+          description: linux-tutorial 是一个 Linux 教程。
         - title: nginx-tutorial
           url: https://dunwu.github.io/nginx-tutorial/#/
           logo: knowledge/nginx-tutorial.png

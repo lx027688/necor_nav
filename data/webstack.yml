@@ -413,6 +413,10 @@
           url: https://pdai.tech/
           logo: knowledge/pdai.ico
           description: 包含 Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&amp;CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+        - title: source-code-hunter
+          url: https://doocs.gitee.io/source-code-hunter/#/
+          logo: knowledge/source-code-hunder.png
+          description: 读尽天下源码，心中自然无码——源码猎人
         - title: JavaGuide
           url: https://javaguide.cn/
           logo: knowledge/javaGuide.png
